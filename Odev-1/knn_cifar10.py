@@ -4,7 +4,6 @@ import os
 
 # -------------------------------------------------------------------
 # CIFAR-10 k-NN Sınıflandırma
-# Gerekli veri klasörünü (cifar-10-batches-py) kodun olduğu dizine kopyaladığınızdan emin olun.
 # -------------------------------------------------------------------
 
 # CIFAR-10 veri setindeki sınıfların listesi
